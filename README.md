@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikko
 - 👀 I’m interested in web devepment. 
-- 🌱 I’m currently learning html, CSS, Javascript, PHP and MySQL
+- 🌱 I’m currently learning React, CSS-framworks, Javascript, and project management. 
 - 💞️ I’m looking to collaborate on on a project tracking the James Webb telescope. 
 - 📫 How to reach me: mikko.erich@gmail.com
 
